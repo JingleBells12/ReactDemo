@@ -1,0 +1,16 @@
+{
+  "name": "react-hello-world",
+  "version": "0.0.0",
+  "description": "A demo package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NPM demo",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^1.13.1",
+    "react-dom": "^15.1.0",
+    "react": "^15.1.0"
+  }
+}
